@@ -1,19 +1,10 @@
 # Operaciones con Números Complejos
 
-Este proyecto proporciona una implementación en Python de operaciones básicas con números complejos, incluyendo suma, resta, multiplicación, división y conversiones entre coordenadas cartesianas y polares.
-
-## Comenzando
-
-Estas instrucciones te ayudarán a configurar el proyecto y ejecutar las operaciones en tu máquina local para propósitos de desarrollo y pruebas.
-
-### Requisitos previos
-
-Asegúrate de tener Python 3 instalado en tu sistema.
-
+Operaciones básicas con números complejos, suma, resta, multiplicación, división, modulo, conjugado y conversiones entre coordenadas cartesianas y polares.
 
 ## Ejecutando las pruebas
 
-Puedes ejecutar el script para probar su funcionalidad con ejemplos predefinidos incluidos en la función operaciones()
+En el archvo "testOPcmplex" hay algunas pruebas a ejecutar.
 
 ### Desglose de las pruebas
 
