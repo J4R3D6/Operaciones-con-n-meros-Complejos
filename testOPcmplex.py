@@ -12,6 +12,7 @@ class TestOpcmplex (unittest.TestCase):
         self.assertAlmostEqual(div[1],-0.9654326)
         self.assertAlmostEqual(lc.module((-6.7,2)),6.992138442565336)
         self.assertEqual(lc.conjugado((-6.7,2)),(-6.7, -2))
+        self.assertAlmostEqual(lc.face((-6.7,2)),2.85150572)
         car_a_pol=lc.cartesiana_a_polar((-6.7,2))
         self.assertAlmostEqual(car_a_pol[0], 6.9921384)
         self.assertAlmostEqual(car_a_pol[1], 2.8515057)
